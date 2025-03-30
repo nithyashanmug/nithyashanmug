@@ -3,7 +3,7 @@ Hi, I’m Nithya! I’m a passionate developer with a knack for creating efficie
 - :seedling: I’m currently exploring IT Analyst,System Integration and Data Visualization in Business Process Designing.
 - :handshake: I’m looking to collaborate on open-source innovative projects related to IT analyst,Data analyst and System Integration in Business Process designing .
 - :speech_bubble: Ask me about BPDI tools,Archimate,and Fractal Enterprise Modelling.
-- :mailbox: How to reach me: [silentbob@example.com](nithya.s20@gmail.com)
+- :mailbox: How to reach me: (nithya.s20@gmail.com)
 - :zap: Fun fact: I love hanging out with friends!
 <!--
 ## :books: My Writing & Content
